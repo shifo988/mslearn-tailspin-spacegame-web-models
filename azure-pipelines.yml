@@ -1,4 +1,5 @@
 pool:
+  name: local  # Use your local agent pool name
   vmImage: 'ubuntu-20.04'
 
 variables:
